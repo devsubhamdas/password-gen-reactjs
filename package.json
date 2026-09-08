@@ -1,9 +1,10 @@
 {
-  "homepage": "https://subham-das-98.github.io/password-gen-reactjs",
+  "homepage": "https://devsubhamdas.github.io/password-gen-reactjs",
   "name": "password_gen",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
